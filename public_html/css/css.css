@@ -44,6 +44,12 @@ header{
     padding-left:55px;
     width:160px
 }
+
+.Pandalogin {
+    width:60px;
+    padding-top:48px; 
+    margin-left: 210px;
+}
  
 .color-navbar{
   background-color:#d6e2d4;    
@@ -78,4 +84,8 @@ header{
     font-family: Playlist Script;
     font-size:x-large;
 }
+
+
+
+
 
