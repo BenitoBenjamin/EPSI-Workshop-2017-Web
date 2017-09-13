@@ -9,7 +9,7 @@ src: local('Playlist Script'), url('Playlist Script.woff') format('woff');
     background-color:#e6fff4;
 }
 
-footer{
+.footer{
   background-color:#d6e2d4;
   width: 100%;
   height: 150px;
@@ -46,9 +46,9 @@ header{
 }
 
 .Pandalogin {
-    width:60px;
-    padding-top:48px; 
-    margin-left: 210px;
+    width: 60px;
+    padding-top: 22px;
+    margin-left: 110px;
 }
  
 .color-navbar{

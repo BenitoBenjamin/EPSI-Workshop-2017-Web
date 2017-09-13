@@ -1,9 +1,10 @@
 #articleBorder {
-	width: 80%;
-	height: 1000px;
+	width: 70%;
+	height: 800%;
 	margin: auto;
-	border-width: 10px;
+	border-width: 1px;
 	border-style: solid;
+        margin-top: 50px;
 }
 #articleAds{
 	height: 70px;
