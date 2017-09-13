@@ -1,0 +1,71 @@
+#articleBorder {
+	width: 80%;
+	height: 1000px;
+	margin: auto;
+	border-width: 10px;
+	border-style: solid;
+}
+#articleAds{
+	height: 70px;
+	width: 80%;
+	margin: auto;
+	margin-top: 50%;
+	border-width: 10px;
+	border-style: solid;
+}
+#footAdsContainer {
+	padding-left: 15%;
+}
+.footAds {
+	list-style-type: none;
+	display: inline-block;
+	border-width: 10px;
+	border-style: solid;
+	width: 40%;
+	height: 160px;
+}
+#pageBorder {
+	width: 80%;
+	height: 1000px;
+	border-width: 10px;
+	border-style: solid;
+	margin: auto;
+}
+#picContainer #profileTitle {
+	display: inline-block;
+}
+#picContainer {
+	margin-left: 50px;
+	margin-top: 50px;
+	width: 200px;
+	height: 200px;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 200px;
+	background-image: url(pp.jpg);
+	background-size: 100%;
+	float: left;
+}
+#picContainer p {
+	width: 79%;
+	height: 35px;
+	margin: auto;
+	margin-top: 81%;
+	text-align: center;
+	opacity: 0.6;
+	font-family: 'Dosis', sans-serif;
+	text-shadow: #FFFFFF 1px 1px, #FFFFFF -1px 1px, #FFFFFF -1px -1px, #FFFFFF 1px -1px;
+	font-size: 24px;
+	background-color: grey;
+	border-bottom-left-radius: 100px 50px;
+}
+#picContainer p:hover {
+	opacity: 1;
+}
+#profileTitle {
+	margin-top: 80px;
+	margin-left: 50%;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	font-size: 50px;
+}
